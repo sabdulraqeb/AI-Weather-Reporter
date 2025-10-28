@@ -1,6 +1,7 @@
 # **☀️ AI-Enhanced Weather Reporter (PyQt5)**
 
 A simple, aesthetically pleasing desktop weather application built with PyQt5 and Python. This app fetches real-time weather conditions and uses the Google Gemini API to generate a friendly, conversational summary of the current conditions.
+<img width="492" height="635" alt="image" src="https://github.com/user-attachments/assets/9a51c5da-aa28-4685-9c74-94e4464318e2" />
 
 ## **✨ Features**
 
