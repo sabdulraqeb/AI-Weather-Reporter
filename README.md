@@ -18,8 +18,7 @@ A simple, aesthetically pleasing desktop weather application built with PyQt5 an
 
 ### **1. Clone the Repository**
 
-git clone \[https://github.com/YourUsername/ai-weather-reporter.git](https://github.com/YourUsername/ai-weather-reporter.git)  
-cd ai-weather-reporter
+ https://github.com/sabdulraqeb/AI-Weather-Reporter.git
 
 ### **2. Create and Activate Virtual Environment**
 
