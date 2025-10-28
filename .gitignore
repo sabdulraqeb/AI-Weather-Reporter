@@ -1,26 +1,19 @@
---- Python Specific ---
 
 pycache/
 *.pyc
 
---- Virtual Environment ---
 
-The 'venv' folder contains all dependencies and should not be tracked by Git.
 
 venv/
 .venv/
 env/
 
---- IDE/Editor Files (IntelliJ/VSCode/etc.) ---
 
-Your project directory shows a .idea folder, which contains local config.
 
 .idea/
 .vscode/
 
---- Secrets and Environment Variables (CRITICAL) ---
 
-NEVER commit your secrets. This line ignores the file containing API keys.
 
 .env
 *.key
